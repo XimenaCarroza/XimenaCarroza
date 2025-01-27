@@ -17,8 +17,8 @@
 
 ## 💼 *Experiencia Profesional*  
 
-### *Tesorería*  
-*Kawen Inversión Creación de Valor Limitada * (Enero 2021– Actualidad)   
+### **Tesorería**  
+*Kawen Inversión Creación de Valor Limitada* (Enero 2021– Actualidad)   
 - Liderar la gestión de tesorería para siete empresas del holding, alcanzando una reducción del 100% en atrasos por conciliaciones bancarias. 
 - Coordinar relación con socios, establecer reuniones periódicas para revisión de flujos de caja. 
 - Coordinar la relación con entidades bancarias, incluyendo la gestión de boletas de garantía, inversiones y pagos internacionales.
@@ -32,7 +32,7 @@ Logros
 - Diseñar e implementar métricas clave para la gestión de flujos de caja, eliminando completamente los atrasos en conciliaciones bancarias. 
 
 ### *Asistente administrativa*  
-*Kawen Inversión Creación de Valor Limitada * (Septiembre 2018-2021  ) 
+*Kawen Inversión Creación de Valor Limitada* (Septiembre 2018-2021  ) 
 - Colaborar en la elaboración de presupuestos anuales del área, garantizando una asignación eficiente de recursos financieros y alineación con los objetivos estratégicos.
 - Generar los servicios mensuales a socios y empresas asociadas, asegurando precisión y cumplimiento en los plazos establecidos.
 - Gestionar la relación con proveedores, negociando las mejores condiciones del mercado para optimizar costos y recursos, tanto para empresa Kawen como sus socios.
@@ -45,40 +45,21 @@ Logros
 - Gestionar de manera  precisa la facturación: Facturar los servicios mensuales a socios y empresas asociadas con un 100% de precisión, garantizando el cumplimiento de plazos y fortaleciendo la relación con los clientes. 
 
 ### *Asistente Tesorería *  
-*Enjoy * (2013-2018 )  
+*Enjoy* (2013-2018 )  
+Logros
 - Optimizar procesos de cuadratura: Implementar un sistema eficiente de cuadratura para las cajas de cajeras en bares, hotelería, eventos y spa, reducir los errores de caja en un 15% y mejorar la precisión de los reportes diarios. 
 - Mejorar la organización de turnos: Coordinar la distribución y organización de las cajeras durante los turnos, lograr una cobertura completa en todas las áreas y asegurar la disponibilidad de fondos adecuados en cada turno.
 - Incrementar la precisión en registros: Garantizar que todos los movimientos diarios sean correctamente registrados en SAP, lograr una reducción del 10% en discrepancias contables y mejorar la trazabilidad de las transacciones financieras. 
+
+
+### *Control de Calidad Producto Terminado*  
+*Del Monte Fresh Produce (Chile)* (2008-2013)  
 
 Logros
 - Asegurar el cumplimiento de estándares de calidad: Realizar revisiones diarias en terreno de la producción de uvas de mesa, verificando el cumplimiento de los requisitos de calidad en el embalaje y reduciendo el porcentaje de productos rechazados en un 15%.
 - Optimizar el abastecimiento de materiales: Gestionar materiales para el embalaje, evitando desabastecimientos y garantizando una operación continua y eficiente, lo que contribuyó a mejorar los tiempos de producción.
 - Supervisar la preparación de pallets: Controlar y verificar la preparación de pallets para el transporte, asegurando que los productos llegaran en perfectas condiciones a su destino y cumpliendo con los estándares internacionales de exportación.
-
-
-### *Jefe Agencias de Carga Coquimbo, La Serena y Vicuña*  
-*Starken* (2017 - 2020)  
-
-Logros
-- Establecer procedimientos para clientes E-commerce vía formularios (google form) para procesamiento masivo de envíos disminuyendo en un 30% el tiempo de procesamiento de carga.
-- Implementar dashboard operativo/táctico en PowerBi aumentando la eficiencia operacional en un 15%.}
-- Desarrollar sistema de control en PowerBI, para la planificación de mantenciones preventivas y correctivas de móviles de reparto aumentando su tiempo de operación en un 20%.
-
-
-### *Jefe de Agencias de Carga La Serena*  
-*Starken* (2012 - 2017)  
-
-Logros
-- Implementar sistema de bodegas en agencias que aumento en un 50% los tiempos de ubicación de productos y entregas a clientes.
-- Desarrollar manuales de gestión y videos instruccionales que disminuyó en un 60% la utilización de personal de capacitación a los nuevos colaboradores. 
-
-
-### *Encargado de Infraestructura TI*  
-*Poder Judicial* (2009 - 2012)  
-
-Logros
-- Diseño, desarrollo y mantenimiento de aplicación informática con lenguaje PHP y base de datos MySQL para el control de insumos y materiales de bodega disminuyendo la perdida y merma de insumos en un 90%.
-- Diseño, desarrollo y mantenimiento de sistema de correspondencia interna en lenguaje PHP y base de datos MySQL. 
+- Mejorar la eficiencia operativa: Implementar procedimientos de control de calidad en el proceso de embalaje y preparación, sistematizando las tareas para mejorar la eficiencia en la línea de producción y reducir los costos asociados con errores de embalaje y transporte. 
 
 ---
 
