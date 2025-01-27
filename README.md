@@ -10,7 +10,7 @@
 ![Python](https://img.shields.io/badge/Python-3.9-blue)  ![Power BI](https://img.shields.io/badge/Power%20BI-Data%20Visualization-orange) ![SQL](https://img.shields.io/badge/SQL-Database%20Management-brightgreen)
 
 <p align="center">
-<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="400" alt="Working on Data">  
+<img src="[https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXlkM3ZhaGIyYmJuY2NrdW52bDBia25vcjY0YWVmNDViMGw0bngwYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/heIX5HfWgEYlW/giphy.gif)" width="400" alt="Working on Data">  
 </p>
 
 ---
