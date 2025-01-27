@@ -5,7 +5,7 @@
 
 *Especialista en Tesoreria y Análisis de Datos*  
 
-[LinkedIn](https://www.linkedin.com/in/francisco-parra-hermosilla/) | [GitHub](https://github.com/fjparrah/) | [Email](mailto:fjparrah@gmail.com)  
+[LinkedIn](https:/www.linkedin.com/in/ximena-carroza) | [GitHub](https://github.com/XimenaCarroza/) | [Email](mailto:ximenacarrozap@gmail.com)  
 
 ![Python](https://img.shields.io/badge/Python-3.9-blue)  ![Power BI](https://img.shields.io/badge/Power%20BI-Data%20Visualization-orange) ![SQL](https://img.shields.io/badge/SQL-Database%20Management-brightgreen)
 
