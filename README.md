@@ -17,41 +17,43 @@
 
 ## 💼 *Experiencia Profesional*  
 
-### *Líder de Innovación y Tecnología*  
-*Somacor Chile S.A.* (Marzo 2024 - Presente)  
-- Desarrollar procesos de innovación en proyectos de Seguridad Industrial y Aseo Industrial dentro del sector minero, gestionando vinculación con startups, universidades y proveedores tecnológicos para la implementación de proyectos.
-- Evaluar proyectos tecnológicos y licitaciones por montos superiores a $1MM USD, garantizando su alineación con los objetivos estratégicos de la empresa y las necesidades del client
-- Dirigir investigaciones sobre tecnologías y su aplicación en servicios, fortaleciendo la propuesta de valor de la empresa.
-- Representar a la organización como consultor de innovación tecnológica para los principales clientes, ofreciendo soluciones personalizadas.
+### *Tesorería*  
+*Kawen Inversión Creación de Valor Limitada * (Enero 2021– Actualidad)   
+- Liderar la gestión de tesorería para siete empresas del holding, alcanzando una reducción del 100% en atrasos por conciliaciones bancarias. 
+- Coordinar relación con socios, establecer reuniones periódicas para revisión de flujos de caja. 
+- Coordinar la relación con entidades bancarias, incluyendo la gestión de boletas de garantía, inversiones y pagos internacionales.
+- Impulsar el uso de ERP, SAP Business One, Dynamic 365, Dynamic 1012 entre otros  para mejorar la gestión financiera y la eficiencia en los procesos administrativos.
+- Establecer relación con diferentes áreas para coordinar pagos de manera efectiva e informada.
+- Cumplir con procesos de auditoría, mantener información al día y respaldada. 
 
 Logros
-- Desarrollar solución tecnológica para la gestión de fallas y mantenimiento para equipos mineros aumentando la continuidad operacional en un 50%
-- Gestionar cartera de proyectos de innovación tecnológica, logrando la ejecución de 5 proyectos estratégicos con un retorno de inversión (ROI) del 120%.
-- Implementar metodología de marketing B2B y software CRM para la administración de las relaciones con los clientes.
+- Mejorar el proceso de ingreso de información bancaria y la gestión de pagos diarios, logrando una conciliación bancaria más eficiente y reduciendo errores operativos. -Implementar análisis de datos en Power BI, permitiendo una visualización más clara y dinámica de las cuentas por pagar y cobrar, mejorando la reportabilidad hacia la gerencia.
+- Optimizar los cierres tributarios, completándolos dentro de los primeros 5 días del mes, fortaleciendo la  puntualidad y confiabilidad de los reportes financieros.
+- Diseñar e implementar métricas clave para la gestión de flujos de caja, eliminando completamente los atrasos en conciliaciones bancarias. 
 
-### *Líder de Área Comercial y Business Intelligence*  
-*Somacor Chile S.A.* (Enero 2023 - Febrero 2024)  
-- Supervisar y optimizar canales de atención, mejorando la experiencia de clientes tanto internos y como externos.
-- Dirigir el control de gestión documental, seguimiento de estados de pago, hojas de servicio y facturación.
-- Desarrollar y mantener sistema de información para el seguimiento y control de contratos.
-- Implementar proyectos de BI en áreas clave (comercial, operativa y RR.HH.), impulsando decisiones estratégicas.
-- Proponer KPIs para la gestión documental y comercial, y elaboré reportes semanales sobre estados de pago, facturación y proyecciones de ingresos.
-
-Logros
-- Asegurar la entrega de estados de pago y documentación a tiempo a mandantes de un 74% a un 98%.
-- Gestionar la recepción a tiempo de hojas de servicios del 83% al 97%, reduciendo retrasos en emisión de facturas de 5 días a 1 día.
-- Supervisar el ingreso de información pendiente y vencida de colaboradores en TALANA, evitando multas y problemas contractuales.
-- Desarrollar informes automatizados acelerando la toma de decisiones y reduciendo el riesgo de fallas en estados de pago y facturación en un 98%
-
-### *Jefe Operaciones HUB de distribución Coquimbo*  
-*Starken* (2020 - 2022)  
-- Controlar las operaciones en HUB de Distribución de 3.500 m2, aasegurando la cadena de distribución de más de 70.000 entregas a domicilio por mes, con más de 120 personas a cargo.
-- Dirigir y gestionar las relaciones con proveedores de transporte externos.
-- Controlar y auditar procesos de Inventario, Logística inversa y control de gestión. 
+### *Asistente administrativa*  
+*Kawen Inversión Creación de Valor Limitada * (Septiembre 2018-2021  ) 
+- Colaborar en la elaboración de presupuestos anuales del área, garantizando una asignación eficiente de recursos financieros y alineación con los objetivos estratégicos.
+- Generar los servicios mensuales a socios y empresas asociadas, asegurando precisión y cumplimiento en los plazos establecidos.
+- Gestionar la relación con proveedores, negociando las mejores condiciones del mercado para optimizar costos y recursos, tanto para empresa Kawen como sus socios.
+- Implementar una comunicación efectiva con los administradores de empresas socias, brindándoles apoyo operativo y administrativo para el cumplimiento de sus objetivos.
+- Elaborar un plan de comunicación organizacional, presentado a la gerencia, con el objetivo de optimizar los flujos de comunicación interna, en colaboración estrecha con el departamento de Recursos Humanos. 
 
 Logros
-- Dirigir la implementación de aplicación de Ruteo (Circuit) que permitió disminuir en 10% el tiempo en ruta de los móviles, aumentando la eficiencia de entrega en 5%.
-- Desarrollar e implementar sistema de análisis de datos en Power BI para inventario, análisis de carga sin movimiento e incidencias que permite la revisión diaria de estado de carga, disminuyendo la perdida y merma en un 90%.
+- Optimizar las relaciones con proveedores: Gestioné acuerdos estratégicos y negocié precios competitivos, logrando una reducción del 15% en costos operativos. 
+- Elaborar de manera eficiente los presupuestos: Contribuir a la planificación financiera anual, asegurando que los presupuestos reflejaran las necesidades del área y facilitando una mejor asignación de recursos.
+- Gestionar de manera  precisa la facturación: Facturar los servicios mensuales a socios y empresas asociadas con un 100% de precisión, garantizando el cumplimiento de plazos y fortaleciendo la relación con los clientes. 
+
+### *Asistente Tesorería *  
+*Enjoy * (2013-2018 )  
+- Optimizar procesos de cuadratura: Implementar un sistema eficiente de cuadratura para las cajas de cajeras en bares, hotelería, eventos y spa, reducir los errores de caja en un 15% y mejorar la precisión de los reportes diarios. 
+- Mejorar la organización de turnos: Coordinar la distribución y organización de las cajeras durante los turnos, lograr una cobertura completa en todas las áreas y asegurar la disponibilidad de fondos adecuados en cada turno.
+- Incrementar la precisión en registros: Garantizar que todos los movimientos diarios sean correctamente registrados en SAP, lograr una reducción del 10% en discrepancias contables y mejorar la trazabilidad de las transacciones financieras. 
+
+Logros
+- Asegurar el cumplimiento de estándares de calidad: Realizar revisiones diarias en terreno de la producción de uvas de mesa, verificando el cumplimiento de los requisitos de calidad en el embalaje y reduciendo el porcentaje de productos rechazados en un 15%.
+- Optimizar el abastecimiento de materiales: Gestionar materiales para el embalaje, evitando desabastecimientos y garantizando una operación continua y eficiente, lo que contribuyó a mejorar los tiempos de producción.
+- Supervisar la preparación de pallets: Controlar y verificar la preparación de pallets para el transporte, asegurando que los productos llegaran en perfectas condiciones a su destino y cumpliendo con los estándares internacionales de exportación.
 
 
 ### *Jefe Agencias de Carga Coquimbo, La Serena y Vicuña*  
