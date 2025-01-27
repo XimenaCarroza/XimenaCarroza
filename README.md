@@ -44,7 +44,7 @@ Logros
 - Elaborar de manera eficiente los presupuestos: Contribuir a la planificación financiera anual, asegurando que los presupuestos reflejaran las necesidades del área y facilitando una mejor asignación de recursos.
 - Gestionar de manera  precisa la facturación: Facturar los servicios mensuales a socios y empresas asociadas con un 100% de precisión, garantizando el cumplimiento de plazos y fortaleciendo la relación con los clientes. 
 
-### *Asistente Tesorería *  
+### *Asistente Tesorería*  
 *Enjoy* (2013-2018 )  
 Logros
 - Optimizar procesos de cuadratura: Implementar un sistema eficiente de cuadratura para las cajas de cajeras en bares, hotelería, eventos y spa, reducir los errores de caja en un 15% y mejorar la precisión de los reportes diarios. 
@@ -65,37 +65,26 @@ Logros
 
 ## 📚 *Educación*  
 
-*Magister en Innovación*  
-Pontificia Universidad Catolica de Chile (2021 - 2023) 
+*Ingeniera Civil Industrial*  
+Universidad Andrés Bello  (2022 - 2025) 
 
-*Diplomado en Logística*  
-Pontificia Universidad Catolica de Chile (2016 - 2017) 
-
-*Ingeniería Civil Industrial*  
-Universidad del Mar (2010 - 2013) 
-
-*Ingeniería Civil en Informática*  
-Pontificia Universidad Catolica de Chile (2003 - 2009) 
-
+*Ingeniera Agrícola*  
+Inacap (2003 - 2007) 
+ 
 Certificaciones relevantes:  
-- *Desarrollador FullStack* - 4 Geeks Academy (2023)  
+- *Digital Transformation Management* - Universidad de Arizona   (2025)  
 - *SCRUM Master* - AgileChile (2023)
-- *Design Thinking* - AgileChile (2022)
-- *SQL para analisis de datos* - Desafio LATAM (2022)
-- *Data Analys* - Coderhouse (2022)
-- *Coaching en comunicación y liderazgo* - SpeakerCoach (2022)
-- *Inglés Intermedio, niveles B2 al I4* - Instituto Chileno-norteamericano La Serena (2020 2021)
-  
+- *Design Thinking* - AgileChile (2022) 
 ---
 
 ## 🛠️ *Habilidades Técnicas*  
-- *Lenguajes:* Python, SQL, R,  Javascript, React
+- *Lenguajes:* Python, SQL, R,  
 - *Herramientas:* Power BI, Tableau, Excel avanzado  
-- *Bases de datos:* MySQL, PostgreSQL, MongoDB  
+- *Bases de datos:* MySQL
 - *Metodologías:* Agile, Lean Startup, Running Lean, Design Thinking  
 
 ---
-
+<!--
 ## 🚀 *Proyectos Destacados*  
 
 ### *Star Wars API*  
@@ -112,9 +101,9 @@ Certificaciones relevantes:
 - Código disponible en GitHub: [Portfolio](https://github.com/fjparrah/React-personal-portfolio).  
 
 ---
-
+-->
 ## 🌟 *Intereses*  
-- Innovación tecnológica.  
+- Análisis de Datos.  
 - Visualización de datos y storytelling.  
 - Desarrollo de soluciones basadas en datos para la toma de decisiones.  
 
